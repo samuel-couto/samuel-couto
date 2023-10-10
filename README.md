@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-couto&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-couto" /> </p>
 
-- 🌱 Estou aprendendo **Python, Modelos de Classificação, NoSQL, Estatística, Pentaho e SSIS**
+- 🌱 Estou aprendendo **Python, Modelos de Classificação e Regressão, NoSQL, Estatística, Distribuição de Probabilidade**
 
 - 💬 Fale comigo sobre **SQL, Python, Estatística, Machine Learning, Power BI**
 
